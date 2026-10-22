@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Add support for Python 3.15 (#213)
+
 ## 0.9.1 - 2026-02-21
 
 - Don't rewrite files when there is no change (@s-weigand, #210)
